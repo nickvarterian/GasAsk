@@ -15,4 +15,4 @@ GasAsk
 * [GitHub Pages](http://pages.github.com/)
 
 ## Screenshot
-![screenshot](http://nickvarterian.com/GasAsk/GasAsk/img/screenshot.PNG)
+![screenshot](https://raw.githubusercontent.com/nickvarterian/GasAsk/gh-pages/GasAsk/img/screenshot.PNG)
