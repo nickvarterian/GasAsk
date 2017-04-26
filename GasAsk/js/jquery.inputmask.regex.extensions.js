@@ -2597,7 +2597,7 @@
         var maskGroups = {};
         opts.phoneCodes && opts.phoneCodes.length > 500 && (mask = mask.substr(1, mask.length - 2), 
         reduceVariations(mask.split(opts.groupmarker.end + opts.alternatormarker + opts.groupmarker.start)), 
-        mask = rebuild(maskGroups)),
+        mask = rebuild(maskGroups));
         var mt = analyseMaskBase.call(this, mask, opts);
         return mt;
     }, Inputmask.extendAliases({
