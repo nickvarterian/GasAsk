@@ -19,7 +19,7 @@ sabio.layout.startUp = function () {
 
    
     if (sabio.page.startUp) {
-        console.debug("sabio.layout.startUp fired and found sabio.page.startUp");
+
         sabio.page.startUp();
     }
 };
